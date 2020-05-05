@@ -1,5 +1,7 @@
 Enlace --> http://www.desdes.com/products/oldfiles/zeus.htm
 
+<a href="http://www.desdes.com/products/oldfiles/zeus.htm">Descarga Zeus</a>
+
 Descargar y ejecutar la versión "zeustest.exe   1688KB"
 
 Inicializar el programa en "File" --> "New ZX Spectrum (48K)"
