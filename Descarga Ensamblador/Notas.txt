@@ -1,1 +1,3 @@
 Descargar y ejecutar la versión "zeustest.exe   1688KB"
+
+Inicializar el programa en "File" --> "New ZX Spectrum (48K)"
