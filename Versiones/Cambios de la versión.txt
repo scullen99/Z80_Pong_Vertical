@@ -1,5 +1,7 @@
-5/5/2020
-1- Bases de la práctica
+1 - Bases de la práctica
 
-6/5/2020
 2 - Imprime vidas y puntuación final. Fin.
+
+3 - Función start añadida, pone vidas, texto inicial...
+    Función pala creada (no completada)
+    Función bola creada (no completada)
