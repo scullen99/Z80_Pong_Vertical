@@ -5,3 +5,7 @@
 3 - Función start añadida, pone vidas, texto inicial...
     Función pala creada (no completada)
     Función bola creada (no completada)
+
+4 - Varias funciones añadidas
+
+5 - (La pelota borra el titulo, pero no se borra la pelota)
