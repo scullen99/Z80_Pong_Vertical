@@ -1,5 +1,5 @@
 # Proyecto Ensamblador Z80 "Pong Vertical"
-Proyecto "Pong Vertical" de Ensamblador para <b>Arquitectura de ordenadores</b> 2019/2020.
+Proyecto <b>"Pong Vertical"</b> de Ensamblador Z80 para <b>Arquitectura de ordenadores</b> 2019/2020.
 
 Trabajo realizado por Sergio Esteban, Jaime Gómez y Marcos Prieto.
 
