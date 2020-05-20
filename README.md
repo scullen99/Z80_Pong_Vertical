@@ -3,7 +3,7 @@ Proyecto "Pong Vertical" de Ensamblador para Arquitectura de ordenadores 2019/20
 
 Trabajo realizado por Sergio Esteban, Jaime Gómez y Marcos Prieto.
 
-ESPECIFICACIONES:
+# Especificaciones:
 
 • Se trabajará en modo de baja resolución: pantalla de 24x32 caracteres (cada
 carácter formado por 8 octetos).
