@@ -42,7 +42,7 @@ partida.
 •	[X] Puesta a a 3 el contador de vidas al iniciar partida.
 
 
-•	[  ] Rutina de movimiento de la pala.
+•	[X] Rutina de movimiento de la pala.
 
 •	[X] Rutina de movimiento de la pelota. La pelota partirá de una columna aleatoria de la pantalla.
 
