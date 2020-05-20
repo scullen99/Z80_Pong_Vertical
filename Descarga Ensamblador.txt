@@ -1,6 +1,5 @@
-Enlace Descarga Zeus:
-http://www.desdes.com/products/oldfiles/zeus.htm
-
 Descargar y ejecutar la versión "zeustest.exe   1688KB"
 
 Inicializar el programa en "File" --> "New ZX Spectrum (48K)"
+
+Compilar y ejecutar en "Assemble then emulate"
