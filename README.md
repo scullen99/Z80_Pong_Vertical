@@ -35,15 +35,22 @@ partida.
 Checkpoints:
 
 •	[X] Inicialización.
+
 •	[X] Aparición inicial del título.
+
 •	[X] Puesta a 0 del contador de impactos.
+
 •	[X] Puesta a a 3 el contador de vidas al iniciar partida.
+
 
 •	[ ] Rutina de movimiento de la pala.
 
 •	[X] Rutina de movimiento de la pelota. La pelota partirá de una columna aleatoria de la pantalla.
+
 •	[X] Rebotes de la pelota. 
+
 •	[X] Detectar los rebotes en las paredes laterales y superior y cambiar el sentido de la marcha.
+
 •	[X] Detectar rebote en la pala y cambiar el sentido de la marcha.
 
 •	[X] Actualizar el marcador de puntos cada vez que la pelota rebote en la pala.
