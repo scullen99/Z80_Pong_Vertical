@@ -31,8 +31,7 @@ vidas restantes.
 • Cuando el usuario pulse cualquier tecla del teclado, comenzará una nueva
 partida.
 
-# Puntos a conseguir:
-Checkpoints:
+# Objetivos de la práctica:
 
 •	[X] Inicialización.
 
