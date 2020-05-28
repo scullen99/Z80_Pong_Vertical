@@ -44,7 +44,7 @@ partida.
 
 •	[X] Rutina de movimiento de la pala.
 
-•	[X] Rutina de movimiento de la pelota. La pelota partirá de una columna aleatoria de la pantalla.
+•	[] Rutina de movimiento de la pelota. La pelota partirá de una columna aleatoria de la pantalla.
 
 •	[X] Rebotes de la pelota. 
 
